@@ -1,6 +1,7 @@
 # pulquerias_CDMX
 
 El pulque es una bebida prehispanica que se ha consumido en el campo y las ciudades de manera casi initerrumpida desde hace mucho tiempo. En la Ciudad de México aún existen varios de estos establecimientos que si bien podrían ser extremadamente _hipsters_ algunos otros son más tradicionales y con pulque más rico.
+
 ![image](https://github.com/sanalexito/pulquerias_CDMX/assets/65984679/1e5961a9-e69a-47a3-b8b1-585bc13c141a)
 
 El INEGI, a través del Directorio Estadístico Nacional de Unidades Económicas (DENUE), tiene registradas 67 pulquerías en la Ciudad de México. Las alcaldías Cuauhtémoc, Iztapalapa y Xochimilco son las que concentran el mayor número de establecimientos con 25.4, 22.4 y 11.9% respectivamente.
