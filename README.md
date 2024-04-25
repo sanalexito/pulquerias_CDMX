@@ -4,12 +4,11 @@ El pulque es una bebida prehispanica que se ha consumido en el campo y las ciuda
 
 ![image](https://github.com/sanalexito/pulquerias_CDMX/assets/65984679/1e5961a9-e69a-47a3-b8b1-585bc13c141a)
 
-El INEGI, a través del Directorio Estadístico Nacional de Unidades Económicas (DENUE), tiene registradas 67 pulquerías en la Ciudad de México. Las alcaldías Cuauhtémoc, Iztapalapa y Xochimilco son las que concentran el mayor número de establecimientos con 25.4, 22.4 y 11.9% respectivamente.
+El INEGI, a través del Directorio Estadístico Nacional de Unidades Económicas (DENUE), tiene registradas 67 pulquerías en la Ciudad de México. Las alcaldías Cuauhtémoc, Iztapalapa y Xochimilco son las que concentran el mayor número de establecimientos con 25.4, 22.4 y 11.9% respectivamente. Esto se claramente en el mapa de ubicaciones y es interesante que en las demarcaciones que se dedican a la agricultura el maguey, con el que se hace el pulque, no se cultive; tal es el caso de Milpa Alta y Tláhuac.
 
-En este repositorio puedes encontrar los datos del DENUE para generar el mapa con las ubicaciones de las pulquerías si es que te gusta la "bebida de los dioses".
 ![image](https://github.com/sanalexito/pulquerias_CDMX/assets/65984679/54a3085c-88e8-42fe-b1a9-c388696948b0)
 
-Esta el shape de la CDMX para poner la capa correspondiente y el código R.
+En este repositorio puedes encontrar los datos del DENUE para generar el mapa con las ubicaciones de las pulquerías si es que te gusta la "bebida de los dioses". Esta el shape de la CDMX para poner la capa correspondiente y el código R.
 
 <!-- Quote -->
 <h2 align="center">Te paso mi código, cambiar al mundo ya dependerá de ti 🤯 🗺️ 🌐
